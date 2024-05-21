@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /api
+
+node-pupeteer:
+  url: https://salary-explorer-backend.stage.variatalent.com/api/salary-info
+
+google:
+  client_id: 854051993146-oftf54m9kvdun9g85v7q4ueno5svjecl.apps.googleusercontent.com
